@@ -1,2 +1,4 @@
 hello git
 softreset
+this is also soft
+mixedreset
